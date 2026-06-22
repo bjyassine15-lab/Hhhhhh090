@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Prime Ledger AI Voice Assistant",
+  "description": "Financial tracker featuring a continuous-listening voice assistant activated by long-pressing the star icon for hands-free AI interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors (Light Premium Theme) -->
+    <color name="background_color">#F4F6F9</color>   <!-- Soft light background -->
+    <color name="card_background">#FFFFFF</color>    <!-- Pristine white Card -->
+    <color name="primary_accent">#00E5FF</color>     <!-- Accent Cyan -->
+    <color name="text_color">#12151C</color>         <!-- Deep slate dark text -->
+</resources>
